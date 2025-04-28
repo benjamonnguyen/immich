@@ -13479,7 +13479,7 @@
             "nullable": true,
             "type": "string"
           },
-          "value": {
+          "name": {
             "type": "string"
           }
         },
